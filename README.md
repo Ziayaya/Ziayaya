@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there, welcome to my sharing place 👋
+
+#### A Data and Backend Developer learner
+
+I actually more like data like data scientist and data engineer but now I'm trying to focus in backend too.
+
+- [Tableau public](https://public.tableau.com/app/profile/safira.nur.fauziah/vizzes)
+- [Portfolio web](https://nur-notes.notion.site/My-Portfolio-5168a1db0e9242dda72375e056bc1cd3?pvs=4)
 
 <!--
 **Ziayaya/Ziayaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
